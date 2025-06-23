@@ -38,11 +38,11 @@
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/PyTorch_logo_white.svg/512px-PyTorch_logo_white.svg.png?20200318225814" alt="PyTorch"
       width="70" height="20" /> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/opencv/opencv-original-wordmark.svg" alt="OpenCV"
-      width="40" height="40" /> </a> <a href="https://www.intelrealsense.com/" target="_blank" rel="noreferrer"> <img
-      src="https://avatars.githubusercontent.com/u/14095512?s=280&v=4" alt="Realsense"
-      width="40" height="40" /> </a> 
+      width="40" height="40" /> </a>
       <br>
-      <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img
+      <a href="https://www.intelrealsense.com/" target="_blank" rel="noreferrer"> <img
+      src="https://avatars.githubusercontent.com/u/14095512?s=280&v=4" alt="Realsense"
+      width="40" height="40" /> </a> <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib"
       width="40" height="40" /> </a> <a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img
       src="https://avatars.githubusercontent.com/u/5997976?v=4" alt="Plotly"
