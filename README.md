@@ -1,17 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajitha de Silva</h1>
 <h3 align="center">Postdoctoral Researcher at L-CAS, University of Lincoln 🤖.</h3>
 
-<br>
-
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=rajithadesilva&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
-  </p>
-
-<br>
-
-
-
-
 - 🌱 I’m currently working on developing visual perception algorithms for agri-robots.
 <br>
 <p align="center">
@@ -47,11 +36,13 @@
       src="https://www.gstatic.com/devrel-devsite/prod/va55008f56463f12ba1a0c4ec3fdc81dac4d4d331f95ef7b209d2570e7d9e879b/tensorflow/images/lockup.svg" alt="TensorFlow"
       width="80" height="24" /> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/PyTorch_logo_white.svg/512px-PyTorch_logo_white.svg.png?20200318225814" alt="PyTorch"
-      width="60" height="20" /> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img
+      width="70" height="20" /> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/opencv/opencv-original-wordmark.svg" alt="OpenCV"
       width="40" height="40" /> </a> <a href="https://www.intelrealsense.com/" target="_blank" rel="noreferrer"> <img
       src="https://avatars.githubusercontent.com/u/14095512?s=280&v=4" alt="Realsense"
-      width="40" height="40" /> </a> <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img
+      width="40" height="40" /> </a> 
+      <br>
+      <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib"
       width="40" height="40" /> </a> <a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img
       src="https://avatars.githubusercontent.com/u/5997976?v=4" alt="Plotly"
@@ -71,6 +62,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajithadesilva&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="rajithadesilva" /></p>
 
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajithadesilva&label=Profile%20views&color=0e75b6&style=flat"
+    alt="rajithadesilva" /> </p>
 <br>
     
 [Rajitha de Silva: Website](https://rajithadesilva.github.io/)
