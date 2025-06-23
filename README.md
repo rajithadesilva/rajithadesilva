@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rajitha de Silvaa</h1>
-<h3 align="center">Postdoc at L-CAS, University of Lincoln 🤖.</h3>
+<h1 align="center">Hi 👋, I'm Rajitha de Silva</h1>
+<h3 align="center">Postdoctoral Researcher at L-CAS, University of Lincoln 🤖.</h3>
 
 <br>
 
