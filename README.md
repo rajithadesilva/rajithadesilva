@@ -9,15 +9,23 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
 
 
 - 🌱 I’m currently working on developing visual perception algorithms for agri-robots.
+<br>
+<p align="center">
+  <img src="https://github.com/rajithadesilva/rajithadesilva/blob/main/gif/rds1.gif" width="200"/>
+  <img src="https://github.com/rajithadesilva/rajithadesilva/blob/main/gif/rds2.gif" width="200"/>
+  <img src="https://github.com/rajithadesilva/rajithadesilva/blob/main/gif/rds3.gif" width="200"/>
+  <img src="https://github.com/rajithadesilva/rajithadesilva/blob/main/gif/rds4.gif" width="200"/>
+</p>
+<br>
 
 - 📫 How to reach me **rajitha@ieee.org**
 
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="rajithadesilva" /></p>
 <br>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/rajithadesilva/" target="blank"><img align="center"
