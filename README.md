@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rajitha@ieee.org**
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="rajithadesilva" /></p>
+<p><img align="right" src="https://github.com/rajithadesilva/rajithadesilva/blob/main/gif/animation_500_kxa883sd.gif" alt="rajithadesilva" /></p>
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
